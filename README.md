@@ -1,5 +1,6 @@
 # SN_Kozmetični Katalog
 Namen:
+
 Ta program bo predstavljal sistem za upravljanje in analiziranje baze kozmetičnih izdelkov. Podatki bodo vključevali informacije o vsakem izdelku, kot so blagovna znamka, ime, cena, valuta, opis, kategorija, tip izdelka in seznam razpoložljivih odtenkov. Program bo uporabljal SQL za shranjevanje in obdelavo teh podatkov ter bo omogočal enostavno iskanje, filtriranje in razvrščanje po različnih kriterijih.
 
 Uporabnik bo lahko iskal izdelke glede na blagovno znamko, kategorijo, cenovni razpon ali določen odtenek. Poleg tega bo program ponujal analitične funkcionalnosti, kot so izračun povprečnih cen po blagovni znamki, pregled znamk z največ izdelki ter prepoznavanje izdelkov z največ odtenki.
