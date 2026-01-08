@@ -1,1 +1,1 @@
-# SN_Kozmetini-Katalog
+# SN_Kozmetični Katalog
