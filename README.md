@@ -2,7 +2,6 @@
 ## Namen:
 
 Ta program bo predstavljal sistem za upravljanje in analiziranje relacijske baze kozmetičnih izdelkov. Baza bo sestavljena iz več povezanih tabel, ki bodo omogočale shranjevanje podatkov o izdelkih, blagovnih znamkah, kategorijah, tipih izdelkov in razpoložljivih odtenkih. 
-Program bo uporabljal SQL za obdelavo podatkov ter bo omogočal enostavno iskanje, filtriranje, razvrščanje in analizo kozmetičnih izdelkov.
 
 ## Funkcionalnosti:
 
