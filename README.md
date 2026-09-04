@@ -1,4 +1,4 @@
-# Beauté – Sephora Product Database
+# Beauté – Kozmeticni Katalog
 
 ## Opis projekta
 
