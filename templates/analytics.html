@@ -2,11 +2,13 @@
 {% block title %}Analytics · Beauté{% endblock %}
 {% block content %}
 <section class="pagehead"><span class="eyebrow">DATA DASHBOARD</span><h1>Analytics</h1></section>
+
 <div class="stats">
 <div><b>{{ stats['products'] }}</b><span>Products</span></div>
 <div><b>{{ stats['brands'] }}</b><span>Brands</span></div>
 <div><b>${{ '%.2f'|format(stats['avg_price'] or 0) }}</b><span>Average price</span></div>
 <div><b>{{ stats['avg_rating'] or 0 }}</b><span>Average rating</span></div>
 </div>
+
 {{ charts|safe }}
 {% endblock %}
