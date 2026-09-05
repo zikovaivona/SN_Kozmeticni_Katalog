@@ -466,6 +466,7 @@ def delete_product(pid):
     if not admin_required(): return redirect(url_for('login'))
     db=get_db(); db.execute('DELETE FROM products WHERE id=?',(pid,)); db.commit(); flash('Product deleted.','success'); return redirect(url_for('products'))
 
+
 @app.route('/cookie-preferences', methods=['POST'])
 # Shranimo uporabnikovo izbiro glede piškotkov.
 def cookie_preferences():
